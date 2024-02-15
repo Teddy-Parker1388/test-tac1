@@ -1,4 +1,4 @@
-@Libraruy("tsunami_test")_
+@Library("tsunami_test")_
 
 node {
 testJenkins()
